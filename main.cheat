@@ -4,6 +4,6 @@ cd "$(navi info cheats-path)"
 $ name: whoami2
 
 % linux, system
-#pwd2
-pwd
-$ name: whoami3
+#lists all current mounts
+mount
+$ name: mount
