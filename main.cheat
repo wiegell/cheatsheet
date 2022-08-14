@@ -1,14 +1,15 @@
 % first cheat
-
 # print something
 echo "My name is <name>!"
-
 $ name: whoami
-% navi cheat folder
 
+
+% navi cheat folder
 # cheat folder
 cd "$(navi info cheats-path)"
-% navi testt
+$ name: whoami2
 
+% navi testt
 #pwd
 pwd
+$ name: whoami3
