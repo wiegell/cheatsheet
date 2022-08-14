@@ -1,0 +1,14 @@
+% first cheat
+
+# print something
+echo "My name is <name>!"
+
+$ name: whoami
+% navi cheat folder
+
+# cheat folder
+cd /ssd-w-exec/Test/.local/share/navi/cheats
+% navi test
+
+#pwd
+pwd
