@@ -12,3 +12,8 @@ $ name: mount
 # Lists all mounts at boot
 cat /etc/fstab
 $ name: mount
+
+% linux, system
+# Lists all disks
+lsblk
+$ name: mount
