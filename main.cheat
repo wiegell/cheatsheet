@@ -3,17 +3,17 @@
 cd "$(navi info cheats-path)"
 $ name: whoami2
 
-% linux, system
+% linux, armbian, system
 # Lists all current mounts
 mount
 $ name: mount
 
-% linux, system
+% linux, armbian, system
 # Lists all mounts at boot
 cat /etc/fstab
 $ name: mount
 
-% linux, system
+% linux, armbian, system
 # Lists all disks
 lsblk
 $ name: mount
