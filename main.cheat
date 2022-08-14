@@ -5,7 +5,7 @@ $ name: whoami
 
 
 % navi cheat folder
-# cheat folder
+# cd to cheat folder
 cd "$(navi info cheats-path)"
 $ name: whoami2
 
