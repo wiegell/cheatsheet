@@ -7,7 +7,7 @@ $ name: whoami
 % navi cheat folder
 
 # cheat folder
-cd /ssd-w-exec/Test/.local/share/navi/cheats
+cd "$(navi info cheats-path)"
 % navi test
 
 #pwd
