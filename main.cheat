@@ -4,6 +4,11 @@ cd "$(navi info cheats-path)"
 $ name: whoami2
 
 % linux, system
-#lists all current mounts
+# Lists all current mounts
 mount
+$ name: mount
+
+% linux, system
+# Lists all mounts at boot
+cat /etc/fstab
 $ name: mount
