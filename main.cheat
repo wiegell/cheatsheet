@@ -8,7 +8,7 @@ $ name: whoami
 
 # cheat folder
 cd "$(navi info cheats-path)"
-% navi test
+% navi testt
 
 #pwd
 pwd
